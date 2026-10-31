@@ -3,12 +3,14 @@
     "id": "979856732641",
     "restype": "watchface",
     "name": "迷失回廊",
-    "description": "在小米手环上玩伪3D迷宫",
+    "description": "通过此lua表盘可以在小米手环上玩伪3D迷宫,来锻炼你的记忆力吧",
     "preview": [
-      "media/页面 1.png"
+      "media/pose1_spawn.png",
+      "media/pose2_key.png",
+      "media/pose3_door.png"
     ],
     "icon": "media/icon_corridor.png",
-    "cover": "media/页面 1.png",
+    "cover": "media/页面 1 (2).png",
     "author": [
       {
         "name": "bandbbs_1268268",
