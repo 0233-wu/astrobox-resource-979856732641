@@ -1,0 +1,33 @@
+{
+  "item": {
+    "id": "979856732641",
+    "restype": "watchface",
+    "name": "迷失回廊",
+    "description": "在小米手环上玩伪3D迷宫",
+    "preview": [
+      "media/页面 1.png"
+    ],
+    "icon": "media/icon_corridor.png",
+    "cover": "media/页面 1.png",
+    "author": [
+      {
+        "name": "bandbbs_1268268",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb9p": {
+      "version": "0.0.0",
+      "file_name": "downloads/mazedash_v7.face",
+      "versionCode": 0
+    },
+    "xmb10p": {
+      "version": "0.0.0",
+      "file_name": "downloads/mazedash_v7.face",
+      "versionCode": 0
+    }
+  },
+  "ext": {}
+}
